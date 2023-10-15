@@ -1,0 +1,26 @@
+#weather-display {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  #weather-display h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #333;
+    background-color: aquamarine;
+  }
+  
+  #weather-display div {
+    font-size: 20px;
+    margin: 15px 0;
+  }
+
+  #weather-display p {
+    font-size: 18px;
+    color: #777;
+  }
